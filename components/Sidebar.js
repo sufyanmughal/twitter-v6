@@ -40,8 +40,8 @@ export default function Sidebar() {
       {/*Mini Profile*/}
       <div className="hoverEffect text-gray-700 flex items-center justify-center xl:justify-start mt-auto">
         <Image
-          width={10}
-          height={10}
+          width={30}
+          height={30}
           className="rounded-full xl:mr-2"
           src={
             "https://pbs.twimg.com/profile_images/1580935221490454530/OC9HpLqv_400x400.jpg"
